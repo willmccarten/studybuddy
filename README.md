@@ -1,5 +1,5 @@
 
-# Mac Cat Companion
+# Mac Cat Companion Study Buddy
 
 A lightweight, always-on macOS app that features a pixel-art calico cat on your desktop. The cat provides gentle motivational prompts, study reminders, and comforting messages—helping med students (and anyone in need of a boost) stay focused, balanced, and emotionally supported. The design marries nostalgic pixel art with a dreamy, pastel-colored “purple cloud world” background for a soothing yet engaging experience.
 
